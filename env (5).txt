@@ -1,0 +1,4 @@
+BOT_TOKEN=8906776928:AAEzsFbTCRGhqKgC8hVTCIx5dXeyBmFQJlc
+BOT_USERNAME=@Rh_number_0_bot
+OWNER_ID=8543999809
+MONGODB_URI=mongodb+srv://rhrahul907_db_user:5lAciKhOXjKUrZjf@cluster0.jjv9snm.mongodb.net/?appName=Cluster0
